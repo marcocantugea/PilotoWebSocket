@@ -1,0 +1,1 @@
+.\ConsolaSerialWebSocketExample\bin\Debug\net7.0\ConsolaSerialWebSocketExample.exe COM3

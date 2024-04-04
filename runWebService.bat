@@ -1,0 +1,2 @@
+cd .\FrontAngularWebsocketExample
+npm start

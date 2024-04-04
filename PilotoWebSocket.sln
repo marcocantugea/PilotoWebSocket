@@ -7,6 +7,26 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClientSerialWebSocket", "Cl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolaSerialWebSocketExample", "ConsolaSerialWebSocketExample\ConsolaSerialWebSocketExample.csproj", "{5EA92DDD-FF95-4398-8B98-F0BD53D0E6E7}"
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FrontAngularWebsocketExample", "FrontAngularWebsocketExample\", "{BAB1A3C5-C0AD-4A01-B5F3-2685D0BE73BD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59050"
+		Debug.AspNetCompiler.PhysicalPath = "FrontAngularWebsocketExample\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59050\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59050"
+		Release.AspNetCompiler.PhysicalPath = "FrontAngularWebsocketExample\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59050\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59050"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +41,10 @@ Global
 		{5EA92DDD-FF95-4398-8B98-F0BD53D0E6E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EA92DDD-FF95-4398-8B98-F0BD53D0E6E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EA92DDD-FF95-4398-8B98-F0BD53D0E6E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB1A3C5-C0AD-4A01-B5F3-2685D0BE73BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB1A3C5-C0AD-4A01-B5F3-2685D0BE73BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB1A3C5-C0AD-4A01-B5F3-2685D0BE73BD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB1A3C5-C0AD-4A01-B5F3-2685D0BE73BD}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
