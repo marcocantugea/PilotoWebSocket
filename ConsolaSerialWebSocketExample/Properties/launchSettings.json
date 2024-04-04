@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsolaSerialWebSocketExample": {
+      "commandName": "Project",
+      "commandLineArgs": "COM6"
+    }
+  }
+}
